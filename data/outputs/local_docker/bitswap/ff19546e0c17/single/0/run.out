@@ -1,0 +1,8 @@
+{"ts":1595628414627856128,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1595628414627885210,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"start","runenv":{"plan":"bitswap","case":"transfer","params":{"bandwidth_mb":"1024","bstore_delay_ms":"5","file_size":"4194304","jitter_pct":"10","latency_ms":"5","leech_count":"1","parallel_gen_mb":"100","passive_count":"0","request_stagger":"0","run_count":"1","run_timeout_secs":"90","timeout_secs":"300"},"instances":2,"outputs_path":"/outputs","network":"ip+net","group":"single","group_instances":2}}}
+{"ts":1595628414781139532,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"I am QmTuts9xcxSkuotg56EoJ6Zi89Rijm8PGzdgVRmP1Bvr54 with addrs: [/ip4/127.0.0.1/tcp/36569 /ip4/16.1.0.2/tcp/36569 /ip4/192.18.0.7/tcp/36569]"}}
+{"ts":1595628414781353797,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"I am Seed 0 - seq 2 / 2"}}
+{"ts":1595628414781844293,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1595628414781890206,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"Seed 0 has 5ms latency (10% jitter) and 1024MB bandwidth"}}
+{"ts":1595628415782940888,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"Starting run 1 / 1 (4194304 bytes)"}}
+{"ts":1595628415783993091,"msg":"","group_id":"single","run_id":"ff19546e0c17","event":{"type":"message","message":"Generating seed data of 4194304 bytes"}}

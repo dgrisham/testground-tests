@@ -1,0 +1,37 @@
+{"ts":1594319847804224624,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1594319847804257876,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"start","runenv":{"plan":"network","case":"ping-pong","run":"49909658ba2c","params":{},"instances":2,"outputs_path":"/outputs","network":"16.1.0.0/16","group":"single","group_instances":2}}}
+{"ts":1594319847804331430,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"before sync.MustBoundClient"}}
+{"ts":1594319847804904241,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"before netclient.MustWaitNetworkInitialized"}}
+{"ts":1594319848805455048,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1594319848805902278,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"before netclient.MustConfigureNetwork"}}
+{"ts":1594319848807394120,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 0; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319849395841635,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 1; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319849808649131,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"I am 2"}}
+{"ts":1594319849808716029,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"before reconfiguring network"}}
+{"ts":1594319850446316559,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 2; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319852210684402,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1594319852411271179,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"writing my id"}}
+{"ts":1594319852411359176,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"reading their id"}}
+{"ts":1594319852411384217,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"returning their id"}}
+{"ts":1594319852411415113,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"reading my id"}}
+{"ts":1594319852480558720,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 3; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319852611783383,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"done"}}
+{"ts":1594319852611867574,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"ping RTT was 200.595829ms [200ms, 215ms]"}}
+{"ts":1594319853613876881,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"ping pong"}}
+{"ts":1594319853613923378,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1594319854524465966,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"writing my id"}}
+{"ts":1594319854524556646,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"reading their id"}}
+{"ts":1594319854524581716,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"returning their id"}}
+{"ts":1594319854524612689,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"reading my id"}}
+{"ts":1594319854544926575,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"done"}}
+{"ts":1594319854545036856,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"ping RTT was 20.563807ms [20ms, 35ms]"}}
+{"ts":1594319854546248909,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"finish","outcome":"ok"}}
+{"ts":1594319854559695213,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"io closed"}}
+{"ts":1594319856512778690,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 4; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319856512831593,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"influxdb: failed to upload 1 points; err: All attempts fail:\n#1: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#2: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#3: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#4: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#5: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319856513155374,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 0; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319857094981711,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 1; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319858156021701,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 2; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319860221248896,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 3; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319864307194169,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"failed to send batch to InfluxDB; attempt 4; err: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}
+{"ts":1594319864307309299,"msg":"","group_id":"single","run_id":"49909658ba2c","event":{"type":"message","message":"influxdb: failed to upload 59 points; err: All attempts fail:\n#1: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#2: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#3: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#4: {\"error\":\"database not found: \\\"testground\\\"\"}\n\n#5: {\"error\":\"database not found: \\\"testground\\\"\"}\n"}}

@@ -1,0 +1,44 @@
+## This is an example .env.toml to illustrate how the testground's .env.toml is
+## formatted and used.
+
+# The aws table specifies credentials and settings for the AWS integration,
+# which may be used by several components.
+#
+["aws"]
+region = "<aws region>"
+
+["dockerhub"]
+repo = "repo to be used for testground"
+username = "username"
+access_token = "docker hub access token"
+
+# You can set parameters for runners and builders that apply to your
+# environment. They will be applied with the following precedence (highest
+# to lowest):
+#
+#   1. CLI --run-param, --build-param flags.
+#   2. .env.toml.
+#   3. Test plan manifest.
+#   4. Runner defaults (applied by the runner).
+#
+[runners."cluster:k8s"]
+testplan_pod_cpu            = "100m"
+testplan_pod_memory         = "100Mi"
+collect_outputs_pod_cpu     = "100m"
+collect_outputs_pod_memory  = "100Mi"
+autoscaler_enabled          = false
+provider                    = "aws"
+sysctls = [
+  "net.core.somaxconn=10000",
+]
+
+[runners."local:docker"]
+ulimits = [
+  "nofile=1048576:1048576",
+]
+
+[daemon]
+listen = ":8080"
+
+[client]
+endpoint = "localhost:8080"

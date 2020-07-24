@@ -1,0 +1,15 @@
+{"ts":1593817444529940900,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1593817444529978445,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"start","runenv":{"plan":"example","case":"sync","run":"7daefae5-bd81-11ea-93df-04d4c45522e8","params":{},"instances":10,"outputs_path":"/home/grish/src/ipfs/testground-home/data/outputs/local_exec/example/7daefae5-bd81-11ea-93df-04d4c45522e8/single/0","network":"127.1.0.0/16","group":"single","group_instances":10}}}
+{"ts":1593817444533629676,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"waiting for network initialization"}}
+{"ts":1593817444533654296,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1593817444533657340,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"network initilization complete"}}
+{"ts":1593817444533851264,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"my sequence ID: 3"}}
+{"ts":1593817444533869658,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"i'm a follower; signalling ready after 3 seconds"}}
+{"ts":1593817445588206348,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
+{"ts":1593817447533982830,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"follower signalling now"}}
+{"ts":1593817450574029433,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 57 points"}}
+{"ts":1593817455535091584,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"i have been released"}}
+{"ts":1593817455535844440,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593817455546400321,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593817455555050806,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 57 points"}}
+{"ts":1593817455577356408,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}

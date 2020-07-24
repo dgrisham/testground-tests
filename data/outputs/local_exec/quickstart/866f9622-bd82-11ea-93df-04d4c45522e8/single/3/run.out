@@ -1,0 +1,9 @@
+{"ts":1593817888712726001,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:34185/ (pprof: http://[::]:34185/debug/pprof/)"}}
+{"ts":1593817888712749968,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"start","runenv":{"plan":"quickstart","case":"quickstart","run":"866f9622-bd82-11ea-93df-04d4c45522e8","params":{},"instances":4,"outputs_path":"/home/grish/src/ipfs/testground-home/data/outputs/local_exec/quickstart/866f9622-bd82-11ea-93df-04d4c45522e8/single/3","network":"127.1.0.0/16","group":"single","group_instances":4}}}
+{"ts":1593817888714024825,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#38: I like tennis and I don't care who knows!"}}
+{"ts":1593817888714045797,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#53: I like tennis and I don't care who knows!"}}
+{"ts":1593817888714056286,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#48: I like hockey and I don't care who knows!"}}
+{"ts":1593817888714060484,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#5: I like golf and I don't care who knows!"}}
+{"ts":1593817888714410743,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593817888731805405,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593817888738717741,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 2 points"}}

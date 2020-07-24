@@ -1,0 +1,28 @@
+{"ts":1594320851198418405,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1594320851198452996,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"start","runenv":{"plan":"network","case":"ping-pong","run":"f5b9cbfb3d27","params":{},"instances":2,"outputs_path":"/outputs","network":"16.1.0.0/16","group":"single","group_instances":2}}}
+{"ts":1594320851198520304,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"before sync.MustBoundClient"}}
+{"ts":1594320851199089991,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"before netclient.MustWaitNetworkInitialized"}}
+{"ts":1594320852200654541,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1594320852201439701,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"before netclient.MustConfigureNetwork"}}
+{"ts":1594320852271510528,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
+{"ts":1594320853204104640,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"I am 2"}}
+{"ts":1594320853204174823,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"before reconfiguring network"}}
+{"ts":1594320855606433531,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1594320855806948327,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"writing my id"}}
+{"ts":1594320855807052778,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"reading their id"}}
+{"ts":1594320855807079302,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"returning their id"}}
+{"ts":1594320855807109920,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"reading my id"}}
+{"ts":1594320856007468466,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"done"}}
+{"ts":1594320856007553717,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"ping RTT was 200.591636ms [200ms, 215ms]"}}
+{"ts":1594320857009441555,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"ping pong"}}
+{"ts":1594320857009481056,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1594320857235947589,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"influxdb: uploaded 57 points"}}
+{"ts":1594320857919543193,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"writing my id"}}
+{"ts":1594320857919583427,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"reading their id"}}
+{"ts":1594320857919589537,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"returning their id"}}
+{"ts":1594320857919596529,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"reading my id"}}
+{"ts":1594320857939880142,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"done"}}
+{"ts":1594320857939913222,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"ping RTT was 20.366821ms [20ms, 35ms]"}}
+{"ts":1594320857940235966,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"finish","outcome":"ok"}}
+{"ts":1594320857942773611,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"io closed"}}
+{"ts":1594320857958074911,"msg":"","group_id":"single","run_id":"f5b9cbfb3d27","event":{"type":"message","message":"influxdb: uploaded 1 points"}}

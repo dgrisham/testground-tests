@@ -1,0 +1,27 @@
+{"ts":1593200030375992060,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1593200030376042710,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"start","runenv":{"plan":"network","case":"ping-pong","run":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","params":{},"instances":2,"outputs_path":"/outputs","network":"16.0.0.0/16","group":"single","group_instances":2}}}
+{"ts":1593200030376744097,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"before sync.MustBoundClient"}}
+{"ts":1593200030377568686,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"before netclient.MustWaitNetworkInitialized"}}
+{"ts":1593200031378333942,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1593200031378517746,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"before netclient.MustConfigureNetwork"}}
+{"ts":1593200031400388523,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
+{"ts":1593200032379956312,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"I am 2"}}
+{"ts":1593200032380049355,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"before reconfiguring network"}}
+{"ts":1593200033781671526,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1593200033981762470,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"writing my id"}}
+{"ts":1593200033981789918,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"reading their id"}}
+{"ts":1593200033981930394,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"returning their id"}}
+{"ts":1593200033981950129,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"reading my id"}}
+{"ts":1593200034182171111,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"done"}}
+{"ts":1593200034182206056,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"ping RTT was 200.441007ms [200ms, 215ms]"}}
+{"ts":1593200035182809963,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"ping pong"}}
+{"ts":1593200035182834176,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"waiting until ready"}}
+{"ts":1593200036092906237,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"writing my id"}}
+{"ts":1593200036092939804,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"reading their id"}}
+{"ts":1593200036092945567,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"returning their id"}}
+{"ts":1593200036092951612,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"reading my id"}}
+{"ts":1593200036113054571,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"done"}}
+{"ts":1593200036113078311,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"ping RTT was 20.176894ms [20ms, 35ms]"}}
+{"ts":1593200036113323454,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593200036115834623,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593200036131308739,"msg":"","group_id":"single","run_id":"eca38323-b7e3-11ea-bd2f-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 58 points"}}

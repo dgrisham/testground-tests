@@ -1,0 +1,7 @@
+{"ts":1593636682926236147,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1593636682926274121,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"start","runenv":{"plan":"quickstart","case":"quickstart","seq":-1,"params":{},"instances":1,"outputs_path":"/outputs","network":"ip+net","group":"single","group_instances":1}}}
+{"ts":1593636682926315113,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"message","message":"Hello, Testground!"}}
+{"ts":1593636682926319786,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593636682926429253,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"message","message":"waiting for pushgateway to become accessible"}}
+{"ts":1593636682930573905,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593636722935571647,"msg":"","group_id":"single","run_id":"96064d16-bbdc-11ea-b013-04d4c45522e8","event":{"type":"message","message":"metrics done"}}

@@ -1,0 +1,15 @@
+{"ts":1593817444542834725,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:42483/ (pprof: http://[::]:42483/debug/pprof/)"}}
+{"ts":1593817444542867060,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"start","runenv":{"plan":"example","case":"sync","run":"7daefae5-bd81-11ea-93df-04d4c45522e8","params":{},"instances":10,"outputs_path":"/home/grish/src/ipfs/testground-home/data/outputs/local_exec/example/7daefae5-bd81-11ea-93df-04d4c45522e8/single/7","network":"127.1.0.0/16","group":"single","group_instances":10}}}
+{"ts":1593817444567453689,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"waiting for network initialization"}}
+{"ts":1593817444567577830,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"network initialisation successful"}}
+{"ts":1593817444567581465,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"network initilization complete"}}
+{"ts":1593817444567769242,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"my sequence ID: 7"}}
+{"ts":1593817444567784908,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"i'm a follower; signalling ready after 1 seconds"}}
+{"ts":1593817445568038343,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"follower signalling now"}}
+{"ts":1593817445588002746,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
+{"ts":1593817450562103300,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 57 points"}}
+{"ts":1593817455566523326,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 57 points"}}
+{"ts":1593817455569883692,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"i have been released"}}
+{"ts":1593817455570063603,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593817455570669059,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593817455581326732,"msg":"","group_id":"single","run_id":"7daefae5-bd81-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}

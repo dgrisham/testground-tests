@@ -1,0 +1,9 @@
+{"ts":1593808336937096944,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:6060/ (pprof: http://[::]:6060/debug/pprof/)"}}
+{"ts":1593808336937130419,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"start","runenv":{"plan":"quickstart","case":"bigbrain","seq":-1,"params":{"feature":"false","num":"10000000","word":"\"always\""},"instances":1,"outputs_path":"/home/grish/src/ipfs/testground-home/data/outputs/local_exec/quickstart/492297c3-bd6c-11ea-b013-04d4c45522e8/single/0","network":"ip+net","group":"single","group_instances":1}}}
+{"ts":1593808336937172231,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"I am a bigbrain test case"}}
+{"ts":1593808336937177114,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"I store my files on 10000000 servers."}}
+{"ts":1593808336937179977,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"I \"always\" run test on my P2P code"}}
+{"ts":1593808336937182674,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593808336937258118,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"waiting for pushgateway to become accessible"}}
+{"ts":1593808336941545109,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593808336985025855,"msg":"","group_id":"single","run_id":"492297c3-bd6c-11ea-b013-04d4c45522e8","event":{"type":"message","message":"metrics done"}}

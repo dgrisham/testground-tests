@@ -1,0 +1,10 @@
+{"ts":1593817888710642862,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"registering default http handler at: http://[::]:46493/ (pprof: http://[::]:46493/debug/pprof/)"}}
+{"ts":1593817888710660587,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"start","runenv":{"plan":"quickstart","case":"quickstart","run":"866f9622-bd82-11ea-93df-04d4c45522e8","params":{},"instances":4,"outputs_path":"/home/grish/src/ipfs/testground-home/data/outputs/local_exec/quickstart/866f9622-bd82-11ea-93df-04d4c45522e8/single/1","network":"127.1.0.0/16","group":"single","group_instances":4}}}
+{"ts":1593817889715805773,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#38: I like tennis and I don't care who knows!"}}
+{"ts":1593817889715901468,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#53: I like tennis and I don't care who knows!"}}
+{"ts":1593817889715983255,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#48: I like hockey and I don't care who knows!"}}
+{"ts":1593817889716006577,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"Guy#5: I like golf and I don't care who knows!"}}
+{"ts":1593817889731412397,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
+{"ts":1593817890218834892,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"finish","outcome":"ok"}}
+{"ts":1593817890221956466,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"io closed"}}
+{"ts":1593817890227204425,"msg":"","group_id":"single","run_id":"866f9622-bd82-11ea-93df-04d4c45522e8","event":{"type":"message","message":"influxdb: uploaded 1 points"}}
